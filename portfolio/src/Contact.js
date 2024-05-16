@@ -6,17 +6,17 @@ function Contact() {
     return (
         <div>
 
-            <h3 className="App font-serif text-3xl p-12 pt-16">Contact Me!</h3>
+            <h3 className="App text-5xl p-12 pt-16">Contact Me!</h3>
 
             
 
             <div className='grid grid-cols-3 gap-y-3'>
-                <div className='text-center text-xl'>Email</div>
-                <div className='text-center text-xl'>Phone Number</div>
-                <div className='text-center text-xl'>Linkedin</div>
-                <div className='text-center text-xl'>preston_yong@yahoo.com</div>
-                <div className='text-center text-xl'>(650) 201 - 1938</div>
-                <div className='text-center text-xl'>Preston Yong</div>
+                <div className='text-center text-2xl'>Email</div>
+                <div className='text-center text-2xl'>Phone Number</div>
+                <div className='text-center text-2xl'>Linkedin</div>
+                <div className='text-center text-2xl'>preston_yong@yahoo.com</div>
+                <div className='text-center text-2xl'>(650) 201 - 1938</div>
+                <div className='text-center text-2xl'><a href="https://www.linkedin.com/in/preston-yong-6a51442ab/" target='_blank'>Preston Yong</a></div>
             </div>
         </div>
     )
