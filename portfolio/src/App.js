@@ -10,7 +10,7 @@ function App() {
           
         <h1 className='text-8xl p-96 font-bold pt-80'>Preston Yong</h1>
 
-        <p className='text-4xl p-96'>Currently, I am a senior at Oceana High School, graduating in May 2024. I am planning to attend Cal Poly Pomona for computer science. Here's some of the coding projects that I have made: </p>
+        <p className='text-4xl p-96'>My name is Preston Yong. I recently graduated from Oceana High School and I will be attending Cal Poly Pomona for computer science in the fall of 2024. I have been taking coding lessons for several years, and thus have become an avid programmer. Here's some of the coding projects that I have made: </p>
       </div>
 
 
@@ -27,8 +27,8 @@ function App() {
 
           <div className='gallery'>
             
-            <img className='max-w-lg' src="https://images.pexels.com/photos/998641/pexels-photo-998641.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"/>
-            <img className='max-w-lg' src="https://images.pexels.com/photos/2444852/pexels-photo-2444852.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"/>
+            <a href=""><img className='max-w-lg' src="https://images.pexels.com/photos/998641/pexels-photo-998641.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"/></a>
+            <a href="https://prest0ny.github.io/VolleyballRotations/" target="_blank"><img className='max-w-lg' src="https://images.pexels.com/photos/2444852/pexels-photo-2444852.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"/></a>
             
           </div>
 
